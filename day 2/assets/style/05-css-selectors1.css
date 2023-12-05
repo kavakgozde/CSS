@@ -1,0 +1,20 @@
+* {color: blue;
+    font-size: 28px;
+    text-align: center;
+}
+
+p {
+    color: red;
+}
+
+
+.paragraph {
+color: aquamarine;
+}
+
+#last-paragraph {
+    color: blueviolet;
+}
+
+p.paragraph {font-size: 39px;}
+

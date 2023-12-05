@@ -1,0 +1,7 @@
+/* H1 elemnt should be centred */
+
+h1 {
+    color: red;
+    text-align: center;
+    font-size: 50px;
+}
