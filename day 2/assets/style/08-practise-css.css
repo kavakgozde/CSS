@@ -1,0 +1,32 @@
+nav.menu1 {
+    background-color: gray;
+    text-align: center;
+    font-size: 2rem;
+    width: 300px;
+    line-height: 3.5rem;
+}
+
+div.black {
+    background-color: black;
+    color: white;
+}
+
+
+nav.instructions {
+    background-color: rgb(228, 191, 184);
+   width: 600px;
+   font-size: 1.5rem;
+   line-height: 2rem;
+}
+
+span.numbers {
+    color: green;
+}
+
+span.theblueones {
+    color: blue;
+}
+
+span.theorangeones {
+    color: brown;
+}
