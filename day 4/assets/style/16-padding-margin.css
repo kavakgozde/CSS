@@ -1,0 +1,27 @@
+.box1{background-color: green;
+    margin: 20px;
+
+}
+
+.box2 {background-color: orangered;
+    padding: 5px 20px;
+}
+
+.box3 {
+    background-color: rgb(150, 68, 68);
+    color: antiquewhite;
+    margin-bottom: 20px;
+}
+
+.box4 {
+    background-color: rgb(138, 153, 109);
+    padding: 10px;
+}
+
+.box5{
+    background-color: aquamarine;
+}
+
+em{
+    padding: 20px;
+}

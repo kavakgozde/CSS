@@ -1,0 +1,37 @@
+body,html {
+    height: 100%;
+    font-size: 1rem;
+}
+
+.box1 {
+    background-color: brown;
+    width: 3cm;
+    height: 40%;
+    
+}
+
+.box2 {
+    background-color: green;
+    width: 300px;
+
+}
+
+.box3 {
+    background-color: rgb(55, 104, 209);
+    width: 50%;
+    height: 300px;
+    font-size: 2rem;
+
+}
+.box4 {
+    background-color: rgb(55, 209, 171);
+    width: 50%;
+    height: 50%;
+    font-size: 1rem;
+
+}
+
+.box5 {
+    background-color: rgb(117, 97, 135);
+    width: 50vw;
+}
